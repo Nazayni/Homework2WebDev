@@ -136,8 +136,7 @@ h2 {
 .mexico-img {
   background-image: url("eagle.png");
   background-position: center;
-  max-height: 100px;
-  max-width: 166px;
+  align-self: center;
 }
 
 .mexico-red {
